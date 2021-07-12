@@ -11,3 +11,4 @@ def duration(func):
         print(f'Duration: {(end - start)}')
 
     return wrapper()
+# MAKE SURE THAT THE FUNCTION DOESN'T HAVE ANY PARAMETERS
